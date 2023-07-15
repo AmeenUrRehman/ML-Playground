@@ -4,7 +4,7 @@ Machine Learning Playground is a collection of machine learning projects built u
 
 ## Welcome to the Machine Learning Playground ! 
 
-This repository, available at [github.com/AmeenUrRehman/Machine-Learning-Projects-Hub](https://github.com/AmeenUrRehman/ML-Playground/tree/up-pages), serves as a comprehensive resource for exploring the exciting world of machine learning (ML) algorithms and their implementation using OpenCV.
+This repository, available at [github.com/AmeenUrRehman/Ml-Playground](https://github.com/AmeenUrRehman/ML-Playground/tree/up-pages), serves as a comprehensive resource for exploring the exciting world of machine learning (ML) algorithms and their implementation using OpenCV.
 
 Machine learning has revolutionized numerous industries by enabling computers to learn from data and make predictions or decisions without explicit programming. OpenCV, a popular open-source computer vision library, provides a vast array of algorithms and functions that are invaluable in the field of ML.
 
@@ -20,14 +20,14 @@ This repository is not only a learning resource but also a place for collaborati
 
 So, get ready to delve into the world of ML algorithms and OpenCV, and let the Machine Learning Projects Hub be your guide. By the end of your exploration, you'll have the knowledge and skills to tackle real-world challenges and unleash the potential of ML algorithms in your own projects.
 
-Let's embark on this exciting journey of learning and discovery together! Visit the Machine Learning Projects Hub repository at [github.com/AmeenUrRehman/Machine-Learning-Projects-Hub ](https://github.com/AmeenUrRehman/ML-Playground/tree/up-pages)and let the adventure begin.
+Let's embark on this exciting journey of learning and discovery together! Visit the Machine Learning Projects Hub repository at [github.com/AmeenUrRehman/Machine-Learning-Playground-Hub ](https://github.com/AmeenUrRehman/ML-Playground/tree/up-pages)and let the adventure begin.
 
 ## Installation
 
 To use the Machine Learning Projects Hub, you can clone the repository to your local machine by running the following command:
 
 ```
-git clone https://github.com/AmeenUrRehman/Machine-Learning-Projects-Hub.git
+git clone [https://github.com/AmeenUrRehman/Machine-Learning-Projects-Hub.git](https://github.com/AmeenUrRehman/ML-Playground)
 ```
 
 After cloning the repository, navigate to the project directory of the project you are interested in, and follow the instructions in its respective README.md file to set up the project and its dependencies.
