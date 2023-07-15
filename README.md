@@ -27,7 +27,7 @@ Let's embark on this exciting journey of learning and discovery together! Visit 
 To use the Machine Learning Projects Hub, you can clone the repository to your local machine by running the following command:
 
 ```
-git clone [https://github.com/AmeenUrRehman/Machine-Learning-Projects-Hub.git](https://github.com/AmeenUrRehman/ML-Playground)
+git clone https://github.com/AmeenUrRehman/ML-Playground
 ```
 
 After cloning the repository, navigate to the project directory of the project you are interested in, and follow the instructions in its respective README.md file to set up the project and its dependencies.
