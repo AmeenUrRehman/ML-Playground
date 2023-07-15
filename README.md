@@ -1,10 +1,10 @@
-# Machine Learning Projects Hub
+# Machine Learning Playground 
 
-Machine Learning Projects Hub is a collection of machine learning projects built using various frameworks and libraries such as scikit-learn, TensorFlow, Keras, PyTorch, and more. The goal of this project is to provide a centralized hub for developers and machine learning enthusiasts to explore and learn from real-world examples of machine learning applications.
+Machine Learning Playground is a collection of machine learning projects built using various frameworks and libraries such as scikit-learn, TensorFlow, Keras, PyTorch, and more. The goal of this project is to provide a centralized hub for developers and machine learning enthusiasts to explore and learn from real-world examples of machine learning applications.
 
-## Welcome to the Machine Learning Projects Hub!
+## Welcome to the Machine Learning Playground!
 
-Welcome to the Machine Learning Projects Hub! This repository, available at github.com/AmeenUrRehman/Machine-Learning-Projects-Hub, serves as a comprehensive resource for exploring the exciting world of machine learning (ML) algorithms and their implementation using OpenCV.
+This repository, available at github.com/AmeenUrRehman/Machine-Learning-Projects-Hub, serves as a comprehensive resource for exploring the exciting world of machine learning (ML) algorithms and their implementation using OpenCV.
 
 Machine learning has revolutionized numerous industries by enabling computers to learn from data and make predictions or decisions without explicit programming. OpenCV, a popular open-source computer vision library, provides a vast array of algorithms and functions that are invaluable in the field of ML.
 
