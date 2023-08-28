@@ -1,6 +1,6 @@
 # ML Playground
 
-Machine Learning Playground is a collection of machine learning projects built using various frameworks and libraries such as scikit-learn, opencv and more. The goal of this project is to provide a centralized hub for developers and machine learning enthusiasts to explore and learn from real-world examples of machine learning applications.
+Machine Learning Playground is a collection of machine learning projects built using various frameworks and libraries such as scikit-learn, OpenCV and more. The goal of this project is to provide a centralized hub for developers and machine learning enthusiasts to explore and learn from real-world examples of machine learning applications.
 
 ![Screenshot 2023-07-15 145025n](https://github.com/AmeenUrRehman/ML-Playground/assets/83868776/f4dcc8b6-c459-4e32-a637-f6821bd6e299)
 
