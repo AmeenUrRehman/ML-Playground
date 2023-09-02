@@ -24,7 +24,7 @@ So, get ready to delve into the world of ML algorithms and OpenCV, and let the M
 
 Let's embark on this exciting journey of learning and discovery together! Visit the Machine Learning Projects Hub repository at [github.com/AmeenUrRehman/Machine-Learning-Playground-Hub ](https://github.com/AmeenUrRehman/ML-Playground/tree/up-pages)and let the adventure begin.
 
-## Installation
+## Installation.
 
 To use the Machine Learning Projects Hub, you can clone the repository to your local machine by running the following command:
 
