@@ -34,7 +34,7 @@ git clone https://github.com/AmeenUrRehman/ML-Playground
 
 After cloning the repository, navigate to the project directory of the project you are interested in, and follow the instructions in its respective README.md file to set up the project and its dependencies.
 
-## Contributing
+## Contributing.
 
 Contributions to the Machine Learning Projects Hub are always welcome. If you have a project you would like to contribute, please fork the repository and create a pull request. 
 
