@@ -38,6 +38,6 @@ After cloning the repository, navigate to the project directory of the project y
 
 Contributions to the Machine Learning Projects Hub are always welcome. If you have a project you would like to contribute, please fork the repository and create a pull request. 
 
-## License
+## License.
 
 The Machine Learning Projects Hub is licensed under the MIT License. See the `LICENSE` file for more information.
